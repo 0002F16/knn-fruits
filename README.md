@@ -1,6 +1,6 @@
-# Fruit K-Nearest Neighbors (KNN)
+# knn-fruits
 
-A simple KNN classifier that predicts fruit type (Apple, Orange, Banana) from **weight (grams)** and **sweetness (1–10)**.
+Fruit K-Nearest Neighbors (KNN) — a simple classifier that predicts fruit type (Apple, Orange, Banana) from **weight (grams)** and **sweetness (1–10)**.
 
 ## Workflow
 
